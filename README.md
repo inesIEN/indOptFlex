@@ -35,7 +35,7 @@ Following Technical Units can be modelled :
     HVAC 
     
 3. Energy Systems (ES) \
-   PV , Battery , CHP 
+   PV , Battery , CHP , Diesel Generator
    
 Once the SME object can be defined, different units can be written and also the corresponding data
 can be loaded. 
