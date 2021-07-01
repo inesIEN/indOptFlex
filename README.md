@@ -26,7 +26,7 @@ Using the developed model, a small and medium-sized enterprise can be modelled a
 with different objective functions related to electricity buying and selling costs.
 
 Following Technical Units can be modelled :
-1. Manunfacturing Systems (MFS)
+1. Manunfacturing Systems (MFS)\
     Based on the Resource (Raw Material, Storage Facilitiy, Machines, Products) and Task (Manufacturing Jobs)
 
 2. Technical Building Services (TBS)\
