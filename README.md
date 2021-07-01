@@ -29,7 +29,7 @@ Following Technical Units can be modelled :
 1. Manunfacturing Systems (MFS)
     Based on the Resource (Raw Material, Storage Facilitiy, Machines, Products) and Task (Manufacturing Jobs)
 
-2. Technical Building Services \
+2. Technical Building Services (TBS)\
     Compressed Air System (CAS) \
     Process Cooling and Heating Systems \
     HVAC 
@@ -37,7 +37,7 @@ Following Technical Units can be modelled :
 3. Energy Systems (ES) \
    PV , Battery , CHP 
    
-Once the SME object can be defined, differnet units can be written and also the corresponding data
+Once the SME object can be defined, different units can be written and also the corresponding data
 can be loaded. 
 
 -------------------------------------
