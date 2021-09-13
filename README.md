@@ -1,4 +1,4 @@
-# Generic Industrial Enterprise Model Library - 
+# indOptFlex - Generic Industrial Enterprise Model Library 
 Developed by : Research group - Intelligent Energy Network , Institute of Energy Systems Technology, Offenburg University of Applied Sceinces. 
 \
 Authors and Credits: 
