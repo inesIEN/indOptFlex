@@ -21,7 +21,12 @@ Required Pacakges to be installed
 Project Description
 --------------------------------
 This project is developed for the purpose of modelling of small and medium-sized enterprise
-to analyse their active participation in energy markets with variable electricity prices.
+to analyse their active participation in energy markets with variable electricity prices:
+
+Details: 
+Khatri, R., Schmidt, M., & Gasper, R. (2021). Active participation of industrial enterprises in electricity markets-a generic modeling approach. Energy Informatics, 4(3), 1-20.
+https://energyinformatics.springeropen.com/articles/10.1186/s42162-021-00173-5
+
 Using the developed model, a small and medium-sized enterprise can be modelled and optimal control can be applied
 with different objective functions related to electricity buying and selling costs.
 
